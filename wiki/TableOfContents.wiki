@@ -1,0 +1,3 @@
+#summary Table of contents
+
+<wiki:gadget url="http://www.ohloh.net/p/585396/widgets/project_basic_stats.xml" height="220" border="1"/>
